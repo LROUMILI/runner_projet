@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Movement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Settings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActiveAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="150" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
